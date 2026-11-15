@@ -1,0 +1,1 @@
+Here I am learning to push a locally made repository to the git and github using git init
